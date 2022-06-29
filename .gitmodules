@@ -1,0 +1,3 @@
+[submodule "projetos/livro-receitas"]
+	path = projetos/livro-receitas
+	url = https://github.com/gtCessi/livro-receitas.git
